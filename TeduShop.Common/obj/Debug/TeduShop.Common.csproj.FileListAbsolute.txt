@@ -1,0 +1,10 @@
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\Git\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

@@ -1,0 +1,5 @@
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\bin\Release\TeduShop.Common.dll
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\bin\Release\TeduShop.Common.pdb
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\obj\Release\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\obj\Release\TeduShop.Common.dll
+D:\BAOCAO\PHONG CONG NGHE CAI TIEN\soft learn\TeduShop\TeduShop.Common\obj\Release\TeduShop.Common.pdb
